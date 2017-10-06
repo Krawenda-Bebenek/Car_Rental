@@ -36,6 +36,7 @@ public class Car {
         this.id = id;
     }
 
+
     public String getBrand() {
         return brand;
     }
